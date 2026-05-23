@@ -26,11 +26,16 @@ This project is designed for practicing frontend development and improving UI/UX
 ├── index.html
 ├── style.css
 ├── images/
+    └── screenshot.png
 ```
 
 ## 📸 Preview
 
+![Navbar & Hero Section](images/navbar&hero.png)
 
+![Services Section](images/services.png)
+
+![Protfolio Section](images/protfolio.png)
 
 ## 🎯 Learning Goals
 
